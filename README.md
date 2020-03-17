@@ -1,6 +1,6 @@
-# calculator
+# SimpleCounter
 
-A new Flutter project.
+A Flutter project that uses package:provider.
 
 ## Getting Started
 
