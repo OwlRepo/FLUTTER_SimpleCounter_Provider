@@ -1,6 +1,6 @@
 # SimpleCounter
 
-A Flutter project that uses package:provider.
+A Flutter project that shows how to use package:provider in the simplest way.
 
 ## Getting Started
 
